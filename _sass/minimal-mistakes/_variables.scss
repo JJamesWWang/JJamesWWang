@@ -140,6 +140,12 @@ $base0d: #82aaff !default;
 $base0e: #c792ea !default;
 $base0f: #ff5370 !default;
 
+/* projects */
+$featured-color: #ffa3a9 !default;
+$project-background-color: #111111 !default;
+$project-tag-color: #ce1836 !default;
+$project-tag-background-color: #222222 !default;
+
 /*
    Breakpoints
    ========================================================================== */
@@ -149,15 +155,17 @@ $medium: 768px !default;
 $medium-wide: 900px !default;
 $large: 1024px !default;
 $x-large: 1280px !default;
-$max-width: $x-large !default;
+$max-width: none !default;
 
 /*
    Grid
    ========================================================================== */
 
 $right-sidebar-width-narrow: 200px !default;
-$right-sidebar-width: 300px !default;
+$right-sidebar-width: 275px !default;
 $right-sidebar-width-wide: 400px !default;
+$sidebar-margin-left: 100px;
+$sidebar-margin-right: 50px;
 
 /*
    Other

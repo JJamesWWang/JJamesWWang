@@ -1,0 +1,46 @@
+
+.project-link {
+	text-decoration: none;
+}
+
+.featured-project {
+	display: block;
+	background-color: $project-background-color;
+}
+
+.project {
+	display: inline-block;
+}
+
+.featured {
+	color: $featured-color;
+	letter-spacing: .25em;
+}
+
+.project-title {
+	color: $primary-color;
+	margin-top: 12px;
+	margin-bottom: 4px;
+}
+
+.project-preview {
+	display: block;
+	margin-bottom: 12px;
+}
+
+.project-tag {
+	display: inline-block;
+	font-size: 70%;
+	padding-left: 12px;
+	padding-right: 12px;
+	margin-right: 12px;
+	border-color: $project-tag-color;
+	border-style: solid;
+	border-width: 1px;
+	color: $project-tag-color;
+	background-color: $project-tag-background-color;
+}
+
+.project-description {
+	color: $text-color;
+}

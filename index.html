@@ -6,7 +6,7 @@ author_profile: true
 <h1>Projects</h1>
 
 {% for project in site.projects %}
-<a href="{{ project.url }}">
+<a class="project-link" href="{{ project.url }}">
 	{% if project.isfeatured %}
 	<div class="featured-project">
 		<div class="featured">FEATURED PROJECT</div>
@@ -18,7 +18,7 @@ author_profile: true
 			{% for tag in project.tags %}
 			<div class="project-tag">{{ tag }}</div>
 			{% endfor %}
-			<p> {{ project.description }} </p>
+			<p class="project-description"> {{ project.description }} </p>
 		</div>
 </a>
 {% endfor %}

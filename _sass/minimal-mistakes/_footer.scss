@@ -18,8 +18,7 @@
 
   footer {
     @include clearfix;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: $sidebar-margin-left;
     margin-top: 2em;
     max-width: 100%;
     padding: 0 1em 2em;
