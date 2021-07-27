@@ -1,39 +1,40 @@
-
 .project-link {
 	text-decoration: none;
 }
 
 .featured-project {
-	display: block;
+	display: grid;
+	grid-template-columns: 1fr 2fr;
+	width: 100%;
 	background-color: $project-background-color;
 }
 
 .project {
-	display: inline-block;
+	display: grid;
+	width: 50%;
 }
 
 .featured {
 	color: $featured-color;
-	letter-spacing: .25em;
+	letter-spacing: 0.25em;
+}
+
+.project-blurb {
+	display: inline-block;
+	padding: 2rem;
 }
 
 .project-title {
 	color: $primary-color;
-	margin-top: 12px;
-	margin-bottom: 4px;
-}
-
-.project-preview {
-	display: block;
-	margin-bottom: 12px;
+	margin-top: 1rem;
+	margin-bottom: 0.25rem;
 }
 
 .project-tag {
 	display: inline-block;
-	font-size: 70%;
-	padding-left: 12px;
-	padding-right: 12px;
-	margin-right: 12px;
+	font-size: 0.75rem;
+	padding: 2px 6px;
+	margin-bottom: 4px; 
 	border-color: $project-tag-color;
 	border-style: solid;
 	border-width: 1px;
@@ -43,4 +44,8 @@
 
 .project-description {
 	color: $text-color;
+}
+
+.project-preview {
+	display: inline-block;
 }

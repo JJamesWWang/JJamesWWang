@@ -3,22 +3,25 @@ layout: archive
 author_profile: true
 ---
 
-<h1>Projects</h1>
-
 {% for project in site.projects %}
+
 <a class="project-link" href="{{ project.url }}">
 	{% if project.isfeatured %}
 	<div class="featured-project">
-		<div class="featured">FEATURED PROJECT</div>
 		{% else %}
 		<div class="project">
 			{% endif %}
-			<h2 class="project-title">{{ project.title }}</h2>
+			<div class="project-blurb">
+				{% if project.isfeatured %}
+				<div class="featured">FEATURED PROJECT</div>
+				{% endif %}
+				<h2 class="project-title">{{ project.title }}</h2>
+				<p class="project-description"> {{ project.description }} </p>
+				{% for tag in project.tags %}
+				<div class="project-tag">{{ tag }}</div>
+				{% endfor %}
+			</div>
 			<img class="project-preview" src="{{ project.preview }}" alt="{{ project.title }} preview">
-			{% for tag in project.tags %}
-			<div class="project-tag">{{ tag }}</div>
-			{% endfor %}
-			<p class="project-description"> {{ project.description }} </p>
 		</div>
 </a>
 {% endfor %}
