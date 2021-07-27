@@ -4,14 +4,25 @@
 
 .featured-project {
 	display: grid;
-	grid-template-columns: 1fr 2fr;
+	grid-template-columns: 2fr 3fr;
 	width: 100%;
 	background-color: $project-background-color;
+	transition: transform 250ms ease-in-out;
+}
+
+.featured-project:hover {
+	transform: translateY(-0.5rem);
 }
 
 .project {
 	display: grid;
 	width: 50%;
+	background-color: $project-background-color;
+	transition: transform 250ms ease-in-out;
+}
+
+.project:hover {
+	transform: translateY(-0.25rem);
 }
 
 .featured {
@@ -34,7 +45,7 @@
 	display: inline-block;
 	font-size: 0.75rem;
 	padding: 2px 6px;
-	margin-bottom: 4px; 
+	margin-bottom: 4px;
 	border-color: $project-tag-color;
 	border-style: solid;
 	border-width: 1px;
