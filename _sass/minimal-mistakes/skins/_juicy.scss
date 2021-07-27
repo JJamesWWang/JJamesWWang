@@ -3,7 +3,7 @@
    ========================================================================== */
 
 /* Colors */
-$background-color: #222222 !default;
+$background-color: #1d1d1d !default;
 $text-color: #ffffff !default;
 $primary-color: #ff4e50 !default;
 $border-color: mix(#ff4e50, $background-color, 20%) !default;
@@ -17,6 +17,10 @@ $link-color-visited: mix(#000, $link-color, 25%) !default;
 $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
 $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
+$featured-color: #ff4e50;
+$project-background-color: #222222;
+$project-tag-color: #ce1836;
+$project-tag-background-color: #222222;
 
 /* notices */
 $notice-background-mix: 90% !default;

@@ -7,8 +7,11 @@
    ========================================================================== */
 
 .sidebar {
-	margin-left: #{$sidebar-margin-left};
-	margin-right: #{$sidebar-margin-right};
+	margin-left: $sidebar-margin-left;
+	padding-right: $sidebar-margin-right;
+	border-right-width: 1px;
+	border-right-color: $border-color;
+	border-right-style: solid;
 
   @include clearfix();
   // @include breakpoint(max-width $large) {
@@ -33,9 +36,9 @@
     &.sticky {
       overflow-y: auto;
       /* calculate height of nav list
-         viewport height - nav height - masthead x-padding
+         viewport height - nav height - masthead x-padding - hardcoded height lol
       */
-      max-height: calc(100vh - #{$nav-height} - 2em);
+      min-height: calc(100vh - #{$nav-height} - 2em - 153.25px);
     }
   }
 
