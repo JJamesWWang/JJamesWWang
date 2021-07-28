@@ -9,6 +9,7 @@
   margin-right: 0;
   width: 100%;
   margin-top: 0;
+	border-top: 1px solid $border-color;
   color: $muted-text-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
@@ -19,9 +20,9 @@
   footer {
     @include clearfix;
     margin-left: $sidebar-margin-left;
-    margin-top: 2em;
+    margin-top: 1em;
     max-width: 100%;
-    padding: 0 1em 2em;
+    padding: 0 1em 1em;
 
     @include breakpoint($x-large) {
       max-width: $x-large;

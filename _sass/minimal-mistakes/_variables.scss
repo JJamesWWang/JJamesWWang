@@ -14,8 +14,8 @@ $indent-var: 1.3em !default;
 
 /* system typefaces */
 $serif: Georgia, Times, serif !default;
-$sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI",
-  "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$sans-serif: -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial,
+	sans-serif !default;
 $monospace: Monaco, Consolas, "Lucida Console", monospace !default;
 
 /* sans serif typefaces */
@@ -141,9 +141,10 @@ $base0e: #c792ea !default;
 $base0f: #ff5370 !default;
 
 /* projects */
-$featured-color: #ffa3a9 !default;
+$featured-color: #ce1836 !default;
+$project-title-color: #edb92e !default;
 $project-background-color: #1d1d1d !default;
-$project-tag-color: #ce1836 !default;
+$project-tag-color: #c8e235 !default;
 $project-tag-background-color: #222222 !default;
 
 /*

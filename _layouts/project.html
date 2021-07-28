@@ -3,10 +3,13 @@ layout: archive
 author_profile: true
 ---
 
-<hr>
-<img class="project-preview" src="{{ page.preview }}" alt="{{ page.title }} preview">
-{% for tag in page.tags %}
-<div class="project-tag">{{ tag }}</div>
-{% endfor %}
+<div class="archive-project">
+	<hr>
+	<img class="project-preview" src="{{ page.preview }}" alt="{{ page.title }} preview">
 
-{{ content }}
+	{% for tag in page.tags %}
+	<div class="project-tag">{{ tag }}</div>
+	{% endfor %}
+
+	{{ content }}
+</div>
