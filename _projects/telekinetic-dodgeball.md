@@ -1,13 +1,12 @@
 ---
 title: Telekinetic Dodgeball
-url: /projects/telekinetic-dodgeball
 isfeatured: true
 preview: /assets/images/telekinetic-dodgeball-preview.jpg
-description: Multiplayer dodgeball first-person shooter
+description: Multiplayer first-person shooter dodgeball game
+date: 2021-07-23
 tags:
 - Unreal Engine 4
-- Multiplayer
-- FPS
 - Windows
+- Solo Project
 ---
-Test
+Telekinetic Dodgeball

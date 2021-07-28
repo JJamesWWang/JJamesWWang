@@ -38,8 +38,8 @@
       /* calculate height of nav list
          viewport height - nav height - masthead x-padding
       */
-      min-height: calc(100vh - #{$nav-height} - 2em - 153.25px); /* hardcoded footer height */
-			max-height: calc(100vh - #{$nav-height} - 2em)
+      //min-height: calc(100vh - #{$nav-height} - 2em - 153.25px); /* hardcoded footer height */
+			min-height: calc(100vh - #{$nav-height} - 2em)
     }
   }
 
