@@ -289,8 +289,7 @@ collections:
       - telekinetic-dodgeball.md
       - dodgeball-2d.md
       - cashier-guy.md
-      - slime-volleyball-godot.md
-      - slime-volleyball-unity.md
+      - slime-volleyball.md
 
 # Defaults
 defaults:

@@ -26,6 +26,7 @@
 
 .normal-project {
 	display: grid;
+	height: 100%;
 	grid-template-columns: 2fr 3fr;
 	background-color: $project-background-color;
 	transition: transform 200ms ease-in-out, opacity 200ms ease-in-out;
