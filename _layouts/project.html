@@ -6,7 +6,9 @@ author_profile: true
 <div class="archive-project">
 	<h1>{{ page.title }}</h1>
 	<hr>
-	<iframe src="{{ page.video }}" frameborder="0" allowfullscreen></iframe>
+	<div class="project-video">
+		<iframe src="{{ page.video }}" frameborder="0" allowfullscreen></iframe>
+	</div>
 
 	{% for tag in page.tags %}
 	<div class="project-tag">{{ tag }}</div>
