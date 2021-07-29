@@ -2,7 +2,7 @@
 title: Slime Volleyball
 isfeatured: false
 preview: /assets/images/slime-volleyball-preview.gif
-video: https://youtu.be/embed/koY6uD4AUTA
+video: https://youtube.com/embed/koY6uD4AUTA
 description: Local multiplayer volleyball game
 date: 2020-03-19
 tags:

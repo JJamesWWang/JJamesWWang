@@ -2,7 +2,7 @@
 title: Cashier Guy
 isfeatured: false
 preview: /assets/images/cashier-guy-preview.gif
-video: https://youtu.be/embed/LpO1p6rEYD0
+video: https://youtube.com/embed/LpO1p6rEYD0
 description: 5-minute math-survival escalation game
 date: 2020-07-26
 tags:
