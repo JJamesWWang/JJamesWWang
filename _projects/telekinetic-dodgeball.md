@@ -46,5 +46,13 @@ Development of Telekinetic Dodgeball began in late May 2021 through prototyping 
 ## Points of Interest
 ***
 
+### Game State
+
+The game state of Telekinetic Dodgeball is similar to several other competitive games; it's a system where matches consist of rounds. Each round is played out until a certain criteria is met and then the next round begins, continuing until the time runs out. If there's a tie and a winner can't be determined, then the game goes into overtime. I decided to map this out on Figma because it's difficult to keep the entire state machine in my head, so here is the diagram I made.
+
+![Telekinetic Dodgeball Game State Deterministic Finite Automata](/assets/images/td-game-state-dfa.png)
+
+
+### Other
 * The Itch.io page can be found [here.](https://jjameswwang.itch.io/telekinetic-dodgeball)
 * Perforce was used as the version control software as opposed to Git; however, the source code of the complete game can be found [here.](https://github.com/JJamesWWang/Telekinetic-Dodgeball)

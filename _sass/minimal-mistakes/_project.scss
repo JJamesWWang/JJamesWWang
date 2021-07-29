@@ -58,7 +58,7 @@
 	display: inline-block;
 	font-size: 0.75rem;
 	padding: 2px 6px;
-	margin-bottom: 4px;
+	margin-top: 4px;
 	border-color: $project-tag-color;
 	border-style: solid;
 	border-width: 1px;
@@ -83,7 +83,7 @@
 	max-width: 990px;
 
 	iframe {
-		width: 100%;
+		height: 100%;
 	}
 
 	a {
