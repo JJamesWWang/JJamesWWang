@@ -2,6 +2,7 @@
 title: Dodgeball 2D
 isfeatured: true
 preview: /assets/images/dodgeball-2d-preview.gif
+video: https://youtu.be/embed/VaIP5w-9UTc
 description: Multiplayer 2D dodgeball game
 date: 2021-01-05
 tags:
