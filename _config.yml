@@ -285,11 +285,7 @@ compress_html:
 collections:
   projects:
     output: true
-    order:
-      - telekinetic-dodgeball.md
-      - dodgeball-2d.md
-      - cashier-guy.md
-      - slime-volleyball.md
+    sort_by: date
 
 # Defaults
 defaults:
