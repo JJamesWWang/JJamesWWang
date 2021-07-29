@@ -11,6 +11,10 @@ author_profile: true
 	{% for tag in page.tags %}
 	<div class="project-tag">{{ tag }}</div>
 	{% endfor %}
+	{% for tag in page.extra_tags %}
+	<div class="project-tag">{{ tag }}</div>
+	{% endfor %}
+
 
 	{{ content }}
 </div>

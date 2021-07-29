@@ -1,15 +1,27 @@
 ---
 title: Cashier Guy
 isfeatured: false
-preview: /assets/images/cashier-guy-preview.jpg
+preview: /assets/images/cashier-guy-preview.gif
 description: 5-minute math-survival escalation game
 date: 2020-07-26
 tags:
 - Godot
-- Windows
+- PC
+extra_tags:
+- Single Player
+- 2D
+- Math
+- Survival
+- Escalation
+- GDScript
+- GitHub
+- Pixel Art
+- Aseprite
 - Game Jam
-- Solo Project
+- Solo
+- Freshman Summer
 ---
+
 Cashier Guy is a math-survival escalation game revolved around making change under tight time restrictions. It features a 5-minute survival session which gets more difficult every 30 seconds.
 
 ## Responsibilities

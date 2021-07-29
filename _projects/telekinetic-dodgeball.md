@@ -1,13 +1,26 @@
 ---
 title: Telekinetic Dodgeball
 isfeatured: true
-preview: /assets/images/telekinetic-dodgeball-preview.jpg
+preview: /assets/images/telekinetic-dodgeball-preview.gif
 description: Multiplayer first-person shooter dodgeball game
 date: 2021-07-23
 tags:
 - Unreal Engine 4
-- Windows
-- Solo Project
+- PC
+extra_tags:
+- Multiplayer
+- FPS
+- Team-Based
+- 3D
+- Physics
+- C++
+- Blueprints
+- Gameplay Ability System
+- Online Subsystem Interface
+- Visual Studio
+- Perforce
+- Solo
+- Sophomore Summer
 ---
 
 Telekinetic Dodgeball is a competitive multiplayer first-person shooter based around the game of dodgeball. It features a lobby system based around the Steam subsystem plugin provided by Unreal Engine 4 to connect players wishing to compete with each other.

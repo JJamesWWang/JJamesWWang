@@ -1,14 +1,25 @@
 ---
 title: Slime Volleyball
 isfeatured: false
-preview: /assets/images/slime-volleyball-preview.jpg
+preview: /assets/images/slime-volleyball-preview.gif
 description: Local multiplayer volleyball game
 date: 2020-03-19
 tags:
 - Unity
 - Godot
-- Windows
-- Solo Project
+- PC
+extra_tags:
+- Local Multiplayer
+- Team-Based
+- 2D
+- Physics
+- C#
+- GDScript
+- GitHub
+- Visual Studio
+- Pixel Art
+- Solo
+- Freshman Winter
 ---
 
 Slime Volleyball is a clone of the browser game of the same name, and is a local multiplayer volleyball game. I made two versions; first with Unity, and the other with Godot, with the purpose of learning the game engines.

@@ -1,13 +1,23 @@
 ---
 title: Dodgeball 2D
-isfeatured: false
-preview: /assets/images/dodgeball-2d-preview.jpg
+isfeatured: true
+preview: /assets/images/dodgeball-2d-preview.gif
 description: Multiplayer 2D dodgeball game
 date: 2021-01-05
 tags:
 - Unity
-- Windows
-- Solo Project
+- PC
+extra_tags:
+- Multiplayer
+- Team-Based
+- 2D
+- Physics
+- C#
+- Mirror
+- GitHub
+- Visual Studio Code
+- Solo
+- Sophomore Winter
 ---
 Dodgeball 2D is a competitive top-down arena dodgeball game with RTS-style movement.
 
