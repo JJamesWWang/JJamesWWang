@@ -45,10 +45,5 @@ Development of Telekinetic Dodgeball began in late May 2021 through prototyping 
 ## Points of Interest
 ***
 
-### Game Mode Design
-### Game State Design
-### Separated UI State
-
-### Other
 * The Itch.io page can be found [here.](https://jjameswwang.itch.io/telekinetic-dodgeball)
 * Perforce was used as the version control software as opposed to Git; however, the source code of the complete game can be found [here.](https://github.com/JJamesWWang/Telekinetic-Dodgeball)
