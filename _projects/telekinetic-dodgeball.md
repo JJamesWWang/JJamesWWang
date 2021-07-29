@@ -2,6 +2,7 @@
 title: Telekinetic Dodgeball
 isfeatured: true
 preview: /assets/images/telekinetic-dodgeball-preview.gif
+video: https://youtu.be/6A7LHCtfCes
 description: Multiplayer first-person shooter dodgeball game
 date: 2021-07-23
 tags:
