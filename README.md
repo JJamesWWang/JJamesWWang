@@ -7,3 +7,5 @@
 ![C++](https://img.shields.io/badge/-C%2B%2B-%2300599C?logo=C%2B%2B)
 
 ![Favorite Language: ](https://img.shields.io/badge/-Favorite%20Language%3A%20-%23222222) ![Python](https://img.shields.io/badge/-Python-%233776AB?logo=Python&logoColor=white)
+
+See my games portfolio [here!](https://jjameswwang.com)
