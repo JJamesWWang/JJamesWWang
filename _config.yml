@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "James S. Wang"
   avatar           : "/assets/images/pfp.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**Gameplay programmer** proficient in networked gameplay and multiplayer system design. Using Unreal Engine 4, Unity, and Godot, I’ve completed development of 5 games in my spare time over the past 2 years. I’m confident in my ability to pick up existing codebases quickly to achieve desired results."
+  bio              : "**Gameplay programmer** specializing in networked gameplay and multiplayer system design. Using Unreal Engine 4, Unity, and Godot, I’ve completed development of 5 games in my spare time over the past 2 years. I’m confident in my ability to pick up existing codebases quickly to achieve desired results."
   location         : "Baltimore, MD"
   email            : 
   links:
