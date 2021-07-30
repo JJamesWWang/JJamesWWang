@@ -20,7 +20,7 @@ title                    : "James S. Wang: Gameplay Programmer"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "James S. Wang"
-description              : "Gameplay programmer portfolio."
+description              : "Gameplay programmer portfolio. I specialize in networked gameplay and multiplayer system design. Using Unreal Engine 4, Unity, and Godot, I’ve completed development of 5 games in my spare time over the past 2 years."
 url                      : "https://jjameswwang.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "JJamesWWang/JJamesWWang" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
