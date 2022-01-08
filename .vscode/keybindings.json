@@ -1,0 +1,12 @@
+[
+  {
+    "key": "ctrl+c",
+    "command": "extension.multiCommand.execute",
+    "args": { "command": "multiCommand.copyAndVisual" },
+    "when": "editorTextFocus && !inDebugRepl"
+  },
+  {
+    "key": "ctrl+b",
+    "command": "-workbench.debug.viewlet.action.addFunctionBreakpointAction"
+  }
+]
