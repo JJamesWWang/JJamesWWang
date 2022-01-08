@@ -1,0 +1,57 @@
+{
+  "vim.handleKeys": {
+    "<C-a>": false,
+    "<C-d>": false,
+    "<C-f>": false,
+    "<C-h>": false,
+    "<C-v>": false,
+    "<C-x>": false,
+    "<C-b>": false,
+    "<C-j>": false
+  },
+  "multiCommand.commands": [
+    {
+      "command": "multiCommand.copyAndVisual",
+      "sequence": ["editor.action.clipboardCopyAction", "extension.vim_ctrl+c"]
+    }
+  ],
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "window.zoomLevel": 2,
+  "terminal.integrated.cursorBlinking": true,
+  "files.exclude": {
+    "**/*.meta": true
+  },
+  "files.autoSave": "afterDelay",
+  "workbench.colorTheme": "Juicy (rainglow)",
+  "editor.suggestSelection": "first",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "500",
+  "editor.fontSize": 12,
+  "editor.rulers": [88],
+  "editor.inlineSuggest.enabled": true,
+  "editor.minimap.enabled": false,
+  "editor.tokenColorCustomizations": {
+    "[Juicy (rainglow)]": {
+      "types": "#CE1837",
+      "functions": "#C8E235" //d0eb37
+    }
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.printWidth": 88,
+  "python.linting.enabled": true,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "python.linting.pycodestyleEnabled": true,
+  "python.linting.pycodestyleArgs": ["--max-line-length=88"],
+  "python.formatting.provider": "black",
+  "python.defaultInterpreterPath": "c:\\Users\\JJame\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe",
+  "autoDocstring.docstringFormat": "sphinx",
+  "rewrap.autoWrap.enabled": true,
+  "sourcery.token": "user_as_D7_MhB71uUubdy504o4N7Ub9mj_CJL5SQuIWRAxLVAXf46cY1l9WGvbI",
+  "gitlens.advanced.externalDiffTool": "p4merge"
+}
