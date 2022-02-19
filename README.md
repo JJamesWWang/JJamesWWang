@@ -1,14 +1,46 @@
 ![Helloha! I'm James S. Wang](https://github.com/JJamesWWang/JJamesWWang/blob/master/assets/images/readme/header.png)
+<h3>
+    Full Stack Developer, Gameplay Programmer
+</h3>
 
-![Backend Developer](https://img.shields.io/badge/-Backend%20Developer%20-%23222222) 
-![Gameplay Programmer](https://img.shields.io/badge/-Gameplay%20Programmer%20-%23222222)
+<h3>
+    Main Languages
+</h3>
+<p>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
+<h3>
+    Libraries, Frameworks, & Technical Tools
+</h3>
+<p>
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
+    <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
+</p>
 
-![Frameworks/Tools: ](https://img.shields.io/badge/-Frameworks/Tools%3A%20-%23222222) 
-![Django](https://img.shields.io/badge/Django-092E20?logo=Django)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?logo=Unreal%20Engine) 
+<h3>
+    Other Tools
+</h3>
+<p>
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E"/>
+    <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+</p>
 
-![Favorite Languages: ](https://img.shields.io/badge/-Favorite%20Languages%3A%20-%23222222) 
-![Python](https://img.shields.io/badge/-Python-%233776AB?logo=Python&logoColor=white) 
-![C++](https://img.shields.io/badge/-C%2B%2B-%2300599C?logo=C%2B%2B) 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JJamesWWang&theme=dark"/>
 
-See my games portfolio [here!](https://jjameswwang.com)
+<h3>
+    Check out my <a href="https://jjameswwang.com">games portfolio</a>!
+</h3>
+
+<!-- <p align = "center">
+    You can find these image badges in these repositories, <a href='https://github.com/Ileriayo/markdown-badges'>here</a> and <a href='https://github.com/alexandresanlim/Badges4-README.md-Profile'>here</a>
+</p> -->
