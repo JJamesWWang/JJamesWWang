@@ -36,10 +36,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JJamesWWang&theme=dark"/>
 
-<h3>
-    Check out my <a href="https://jjameswwang.com">games portfolio</a>!
-</h3>
-
 <!-- <p align = "center">
     You can find these image badges in these repositories, <a href='https://github.com/Ileriayo/markdown-badges'>here</a> and <a href='https://github.com/alexandresanlim/Badges4-README.md-Profile'>here</a>
 </p> -->
